@@ -1,16 +1,8 @@
-# flutter_application_4
+# Coffee Shop Flutter App
 
-A new Flutter project.
+Hey There! I have created a basic Coffee Shop where users can add items to the cart and delete them. I haven't added any Profile Authentication but in I future I will add it.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/MahimnaUpadhyay/Coffee_Shop/assets/91863377/900a2155-ff0e-446d-9182-bc1e3b40b373
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
